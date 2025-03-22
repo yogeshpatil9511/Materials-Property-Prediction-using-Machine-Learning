@@ -1,2 +1,6 @@
 # Materials-Property-Prediction-using-Machine-Learning
-This project applies Machine Learning (ML) and Deep Learning techniques to predict key material properties such as yield strength, fatigue life, and ductility based on compositional and processing parameters. It utilizes datasets from Materials Project, OQMD, and Citrine and employs models like Random Forest, XGBoost, and Neural Networks (GNNs/CNNs) for accurate predictions.
+This project applies Machine Learning (ML) and Deep Learning techniques to predict 
+key material properties such as yield strength, fatigue life, and ductility based 
+on compositional and processing parameters. It utilizes datasets from 
+Materials Project, OQMD, and Citrine and employs models like Random Forest, XGBoost, 
+and Neural Networks (GNNs/CNNs) for accurate predictions.
