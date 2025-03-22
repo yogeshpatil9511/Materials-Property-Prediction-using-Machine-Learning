@@ -1,0 +1,7 @@
+Property,Min Value,Max Value
+Formation Energy RMSE,0.0855,0.1242
+Formation Energy MAE,0.0305,0.0848
+Volume Deviation RMSE,0.0315,0.0421
+Volume Deviation MAE,0.0155,0.027
+Total Magnetization RMSE,0.1855,0.4003
+Total Magnetization MAE,0.0691,0.0938
